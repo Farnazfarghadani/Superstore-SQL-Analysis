@@ -47,6 +47,7 @@ This project showcases exploratory and business-focused data analysis using SQL 
 
 ![Dashboard Preview](screenshots/dashboard_preview.png)
 
+
 ---
 
 ## 📚 Dataset
