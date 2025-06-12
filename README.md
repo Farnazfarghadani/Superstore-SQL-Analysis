@@ -45,7 +45,7 @@ This project showcases exploratory and business-focused data analysis using SQL 
 
 > Include a screenshot of the Excel dashboard here, if available:
 
-![Dashboard Preview](screenshots/12.06.2025_09.34.55_REC.png)
+![Dashboard Preview](12.06.2025_09.34.55_REC.png)
 
 
 ---
