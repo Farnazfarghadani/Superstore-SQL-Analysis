@@ -44,7 +44,7 @@ This project showcases exploratory and business-focused data analysis using SQL 
 ## 📷 Visuals
 
 
-![Dashboard Preview](Screenshot (91).png)
+![Dashboard Preview](Screenshot%20%2891%29.png)
 
 
 ---
